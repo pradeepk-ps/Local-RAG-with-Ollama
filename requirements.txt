@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-ollama
+chromadb
+python-dotenv
+pandas
+openpyxl
+requests
+ollama
+langchain-text-splitters
