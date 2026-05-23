@@ -482,18 +482,6 @@ streamlit run 3_chatbot.py
 
 ---
 
-# Future Improvements
-
-- PDF document support
-- Multi-document ingestion
-- Chat history memory
-- Hybrid search
-- Metadata filtering
-- Better UI
-- Multiple embedding models
-
----
-
 # Conclusion
 
 This project demonstrates how Retrieval-Augmented Generation (RAG) systems work internally.
